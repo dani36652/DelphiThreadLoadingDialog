@@ -1,0 +1,2 @@
+Este ejemplo hace uso de Skia4Delphi
+Link Skia4Delphi: https://skia4delphi.org/
